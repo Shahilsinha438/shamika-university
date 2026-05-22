@@ -88,7 +88,6 @@ const Navbar = () => {
             "Home",
             "Courses",
             "Admissions",
-            "Faculty",
             "Contact",
           ].map((item, index) => (
 
