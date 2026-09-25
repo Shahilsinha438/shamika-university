@@ -128,7 +128,7 @@ const Hero = () => {
               fontSize: "0.95rem",
             }}
           >
-            🚀 Admissions Open 2026
+            🚀 Admissions are aclosed
           </div>
 
           {/* HEADING */}
