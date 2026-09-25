@@ -554,7 +554,7 @@ const Hero = () => {
                 fontSize: "0.9rem",
               }}
             >
-              Global Placements
+              Internatiponal Placements
             </p>
 
             <h2
